@@ -8,7 +8,7 @@ Here, I have tried to clone most on the functionalities of https://hackr.io/ whi
 - Further filters can be used to filter the tutorials on the basis of price, Video Tutorial/ Reading Tutorial and according to the level.
 - Then these tutorials are shown according to upvotes.
 
-For the database, the website https://hackr.io/ was scrapped using Selenium of Python.
+For the database, the website https://hackr.io/ was scrapped using Selenium of Python. The repository also contains the code of Selenium Web Scrapper.
 
 ### Tech-Stack
 - PHP 
